@@ -28,6 +28,14 @@ remote_theme: brianmaierjr/long-haul
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Triangles
+    url: /triangles
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
